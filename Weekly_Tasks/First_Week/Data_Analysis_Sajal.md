@@ -276,9 +276,4 @@ To improve forecasting accuracy, we could request:
 | Supply chain reliability | `Supplier_delay_rate` | affects stock availability |
 | Sales channel | Online vs Store | omnichannel retail analysis |
 
-- #### **Demand Forecasting**
-- #### **Inventory Management**
-- **Target Variable, Start doing EDA analyse (normalized, standardized, causation analysis)**
-- **Python Libraries: which will do these**
-- **Try to do PDA**
 
