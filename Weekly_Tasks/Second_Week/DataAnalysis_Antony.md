@@ -1,7 +1,6 @@
 # Internship Project: Data Analysis Report
 
 ## Project Context
-**System:** Employee Time Sheet System (Analysis of `dataset1.csv`)
 **Objective:** Evaluate feature importance, perform Exploratory Data Analysis (EDA), execute Principal Component Analysis (PCA), and identify potential feature engineering needs.
 
 ---
