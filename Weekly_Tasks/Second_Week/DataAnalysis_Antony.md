@@ -55,8 +55,3 @@ To enhance the predictive power of the model, the following features should be c
 4.  **Discount Efficiency:** A feature interacting `Discount_Percentage` with `Footfall_Index` to see how effectively promotions drive conversion.
 
 ---
-
-## Summary of Assets
-* **Dataset:** `analyzed_dataset.csv` (Includes original data, encoded labels, and PCA features).
-* **Visualization 1:** `correlation_heatmap.png` (Feature relationship matrix).
-* **Visualization 2:** `feature_importance.png` (Random Forest importance ranking).
