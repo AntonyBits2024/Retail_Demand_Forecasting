@@ -226,7 +226,7 @@ The 9 features Lasso retained, ranked by standardised coefficient magnitude:
 
 ---
 
-## 8. Key Talking Points for Mentor
+## 8. Key Take Away
 
 ### 8.1 What Worked Well
 
