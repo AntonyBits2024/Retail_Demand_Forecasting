@@ -246,15 +246,7 @@ The 9 features Lasso retained, ranked by standardised coefficient magnitude:
 
 ---
 
-### 8.3 Next Steps Proposed
 
-1. **XGBoost / LightGBM with hyperparameter tuning** — expected to outperform current baseline with proper tuning (`learning_rate`, `max_depth`, early stopping).
-2. **SHAP explainability** — apply `shap.TreeExplainer` to Random Forest for individual-level prediction explanations; critical for business trust.
-3. **Target encoding for Category & Festival_Name** — replace label encoding with cross-validated target encoding for linear models to better capture the demand mean per group.
-4. **Partial Dependence Plots for Current_Price** — confirm monotonic price-demand relationship and investigate whether dominance is genuine or proxy for product tier.
-5. **Category-stratified models** — separate models per product category may outperform the single global baseline.
-
----
 
 ## 9. Evaluation Metrics — Reference
 
